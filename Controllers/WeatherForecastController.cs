@@ -13,6 +13,7 @@ namespace Feature1.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+            //comments
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
